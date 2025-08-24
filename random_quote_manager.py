@@ -68,7 +68,7 @@ def main():
 
     elif action == 'r':
         quotes = read_quotes(month_fn)
-        print("\n✨ Today's Quote ✨")
+        print("\n Today's Quote")
         print(choose_random_quote(quotes))
 
     else:
