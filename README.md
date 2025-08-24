@@ -1,4 +1,4 @@
-## random_qoute_manager
+## random_quote_manager
 Is a Python-based command-line application designed to store, organize, and display quotes on a monthly basis.
 The project aims to provide users with a simple tool to collect their favorite quotes and receive daily inspiration.
 Quotes are organized into CSV files, with each file corresponding to a specific month of the year.
